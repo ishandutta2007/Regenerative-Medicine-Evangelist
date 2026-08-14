@@ -1,49 +1,48 @@
 # Regenerative-Medicine-Evangelist
 
-|<ins>#</ins>|  <ins>Evangalist</ins>  | <ins>About</ins> |
-|---|---|---|
-|1| David Berry | https://en.wikipedia.org/wiki/David_Berry_(inventor)|
-|2| Aubrey de Grey | https://en.wikipedia.org/wiki/Aubrey_de_Grey|
-|3| David Sinclair | https://en.wikipedia.org/wiki/David_A._Sinclair|
-|4| Liz Parrish | https://bioviva-science.com/pages/our-team|
-|5| David Gobel | https://www.methuselahfoundation.org/who-we-are|
-|6| Shinya Yamanaka | https://gladstone.org/people/shinya-yamanaka|
-|7| Bryan Johnson | https://blueprint.bryanjohnson.co/|
-|8| Brian Armstrong | https://www.brianarmstrong.org|
-|9| Mehmood Khan | https://www.nist.gov/people/mehmood-khan|
-|10| Cynthia Kenyon | https://www.calicolabs.com/people/cynthia-kenyon|
-|11| Peter Attia | https://peterattiamd.com|
-|12| Sergey Young | https://www.sergeyyoung.com/|
-|13| Rhonda Patrick | https://www.foundmyfitness.com/|
-|14| Gary Brecka | https://www.theultimatehuman.com|
-|15| Melissa Carpenter | https://www.linkedin.com/in/melissa-carpenter-1024878/
-|16| George Church | https://wyss.harvard.edu/team/core-faculty/george-church/|
-|17| Thomas A. Rando | https://en.wikipedia.org/wiki/Thomas_A._Rando|
-|18| Matt Kaeberlein | https://en.wikipedia.org/wiki/Matt_Kaeberlein|
-|19| Steve Horvath | https://en.wikipedia.org/wiki/Steve_Horvath|
-|20| Andrea Maier | https://www.linkedin.com/in/andreamaierprof/|
-|21| Vadim N. Gladyshev | https://en.wikipedia.org/wiki/Vadim_N._Gladyshev|
-|22| Kristin D. Zhao | https://www.mayo.edu/research/faculty/zhao-kristin-d-ph-d-m-s/bio-00027470|
-|23| Peter Diamandis | https://diamandis.com|
-|24| David Furman | https://www.buckinstitute.org/lab/furman-lab/|
-|25| J R Rahn | https://armrsciences.com/team/jr-rahn/|
-|26| Anthony Atala | https://school.wakehealth.edu/faculty/a/anthony-atala|
-|27| Rudolf Jaenisch | https://biology.mit.edu/profile/rudolf-jaenisch/|
-|28| Michael D. West | https://en.wikipedia.org/wiki/Michael_D._West|
-|29| Paul Knoepfler | https://en.wikipedia.org/wiki/Paul_Knoepfler|
-|30| Susan L. Solomon | https://en.wikipedia.org/wiki/Susan_L._Solomon|
-|31| Bernard Siegel | https://www.linkedin.com/in/bernardsiegel/|
-|32| Neil Riordan | https://www.cellmedicine.com/meet-neil-riordan-founder-stem-cell-institute/|
-|33| William A. Haseltine | https://en.wikipedia.org/wiki/William_A._Haseltine|
-|34| Lisa Fabiny-Kiser | https://www.linkedin.com/in/lisa-fabiny-kiser-11793633/|
-|35| Bill Liao | https://sosv.com/people/bill-liao/|
-|36| Jim O'Neill | https://en.wikipedia.org/wiki/Jim_O%27Neill_(investor)|
-|37| Maria Entraigues-Abramson | https://lifeboat.com/ex/bios.maria.entraigues.abramson|
-|38| Keith Comito | https://www.linkedin.com/in/keith-comito-a6890447|
-|39| Paul A. Spiegel | https://healthspanpolicy.org/person/paul-a-spiegel/|
-|40| Oliver Medvedik | https://www.linkedin.com/in/oliver-medvedik-4067016/|
-|41| Elena Milova | https://www.linkedin.com/in/elena-milova-297b1787|
-|42| José Luis Cordeiro | https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Cordeiro|
-[43| Aaron Cravens | Stanford University|
-[44| Nicholas A. DeLateur |Revel Pharmaceuticals founder|
-
+|<ins>#</ins>| <ins>Evangelist</ins> | <ins>About</ins> | <ins>Link</ins> |
+|---|---|---|---|
+| 1 | David Berry | General Partner at Flagship Pioneering and serial biotech entrepreneur who has co-founded numerous life sciences and healthcare companies. | https://en.wikipedia.org/wiki/David_Berry_(inventor) |
+| 2 | Aubrey de Grey | Biomedical gerontologist, author of *Ending Aging*, and founder of LEV (Longevity Escape Velocity) Foundation and SENS Research Foundation. | https://en.wikipedia.org/wiki/Aubrey_de_Grey |
+| 3 | David Sinclair | Professor of Genetics at Harvard Medical School, co-director of the Glenn Center for Biology of Aging Research, and author of *Lifespan*. | https://en.wikipedia.org/wiki/David_A._Sinclair |
+| 4 | Liz Parrish | Founder and CEO of BioViva Sciences, patient zero for telomerase and follistatin gene therapy, and advocate for genetic regenerative medicine. | https://bioviva-science.com/pages/our-team |
+| 5 | David Gobel | Co-founder and CEO of the Methuselah Foundation, pioneer of the Methuselah Mouse Prize, and advocate for extending healthy human lifespan. | https://www.methuselahfoundation.org/who-we-are |
+| 6 | Shinya Yamanaka | Nobel laureate stem cell researcher who discovered induced pluripotent stem cells (iPSCs / Yamanaka factors); Senior Investigator at Gladstone Institutes and CiRA. | https://gladstone.org/people/shinya-yamanaka |
+| 7 | Bryan Johnson | Entrepreneur and founder of Kernel and Blueprint, an intensive publicly documented biological age-reversal and health optimization project. | https://blueprint.bryanjohnson.co/ |
+| 8 | Brian Armstrong | Co-founder and CEO of Coinbase and co-founder of NewLimit, a biotech company focused on extending human healthspan via epigenetic reprogramming. | https://www.brianarmstrong.org |
+| 9 | Mehmood Khan | CEO of Hevolution Foundation, former Vice Chairman and Chief Scientific Officer at PepsiCo, leading global non-profit investment in geroscience. | https://www.nist.gov/people/mehmood-khan |
+| 10 | Cynthia Kenyon | Molecular biologist who pioneered genetic lifespan regulation through daf-2 discoveries in *C. elegans*; Vice President of Aging Research at Calico. | https://www.calicolabs.com/people/cynthia-kenyon |
+| 11 | Peter Attia | Physician focusing on longevity medicine, author of *Outlive: The Science and Art of Longevity*, and host of The Drive podcast. | https://peterattiamd.com |
+| 12 | Sergey Young | Longevity investor, founder of the Longevity Vision Fund, XPRIZE Innovation Board member, and author of *The Science and Technology of Growing Young*. | https://www.sergeyyoung.com/ |
+| 13 | Rhonda Patrick | Cell and molecular biologist, health educator, and founder of FoundMyFitness, researching micronutrients, hormesis, and aging. | https://www.foundmyfitness.com/ |
+| 14 | Gary Brecka | Human biologist, longevity biohacker, founder of Streamline Medical Group, and host of The Ultimate Human podcast. | https://www.theultimatehuman.com |
+| 15 | Melissa Carpenter | Stem cell biologist, consultant, and pioneer in human embryonic and induced pluripotent stem cell therapeutic development. | https://www.linkedin.com/in/melissa-carpenter-1024878/ |
+| 16 | George Church | Professor of Genetics at Harvard and MIT, synthetic biology and genome sequencing pioneer, and co-founder of numerous rejuvenation biotechnology startups. | https://wyss.harvard.edu/team/core-faculty/george-church/ |
+| 17 | Thomas A. Rando | Director of the Broad Stem Cell Research Center at UCLA and renowned researcher in stem cell biology, muscle tissue regeneration, and parabiosis. | https://en.wikipedia.org/wiki/Thomas_A._Rando |
+| 18 | Matt Kaeberlein | Biogerontologist, CEO of Optispan, co-founder of the Dog Aging Project, and former director of the Healthy Aging and Longevity Research Institute at UW. | https://en.wikipedia.org/wiki/Matt_Kaeberlein |
+| 19 | Steve Horvath | Human geneticist and biostatistician who developed the epigenetic Horvath Aging Clock; Principal Investigator at Altos Labs. | https://en.wikipedia.org/wiki/Steve_Horvath |
+| 20 | Andrea Maier | Professor of Medicine and Gerontology, co-director of the Centre for Healthy Longevity at NUS, and co-founder of Chi Longevity. | https://www.linkedin.com/in/andreamaierprof/ |
+| 21 | Vadim N. Gladyshev | Professor of Medicine at Harvard Medical School and Brigham and Women's Hospital, leading researcher in redox biology, selenoproteins, and multi-omics aging clocks. | https://en.wikipedia.org/wiki/Vadim_N._Gladyshev |
+| 22 | Kristin D. Zhao | Professor and Director of the Assistive and Restorative Technology Laboratory at Mayo Clinic, specializing in spinal cord injury restoration and neuromodulation. | https://www.mayo.edu/research/faculty/zhao-kristin-d-ph-d-m-s/bio-00027470 |
+| 23 | Peter Diamandis | Founder and Executive Chairman of the XPRIZE Foundation, author, and co-founder of longevity-focused ventures including Human Longevity Inc. and Celularity. | https://diamandis.com |
+| 24 | David Furman | Associate Professor and Director of the Stanford 1000 Immunomes Project at the Buck Institute, studying systemic inflammation (inflammaging) and AI-driven immune profiling. | https://www.buckinstitute.org/lab/furman-lab/ |
+| 25 | J R Rahn | Biotech entrepreneur and investor, founder of MindMed, and managing partner at ARMR Sciences backing longevity and neuroscience therapeutics. | https://armrsciences.com/team/jr-rahn/ |
+| 26 | Anthony Atala | Director of the Wake Forest Institute for Regenerative Medicine (WFIRM) and pioneering surgeon in tissue engineering and 3D bioprinting human organs. | https://school.wakehealth.edu/faculty/a/anthony-atala |
+| 27 | Rudolf Jaenisch | Founding Member of the Whitehead Institute and Professor of Biology at MIT, pioneer in transgenic animal models and cellular reprogramming. | https://biology.mit.edu/profile/rudolf-jaenisch/ |
+| 28 | Michael D. West | Biogerontologist, founder of Geron and BioTime (Lineage Cell Therapeutics), CEO of AgeX Therapeutics, and pioneer in human embryonic stem cells and telomerase therapies. | https://en.wikipedia.org/wiki/Michael_D._West |
+| 29 | Paul Knoepfler | Stem cell biologist and Professor at UC Davis School of Medicine, author, and creator of The Niche stem cell science blog. | https://en.wikipedia.org/wiki/Paul_Knoepfler |
+| 30 | Susan L. Solomon | Healthcare advocate and founding CEO of the New York Stem Cell Foundation (NYSCF), pioneering automated robotic stem cell research platforms. | https://en.wikipedia.org/wiki/Susan_L._Solomon |
+| 31 | Bernard Siegel | Patient advocate and attorney, founder of the Regenerative Medicine Foundation, Genetics Policy Institute, and World Stem Cell Summit. | https://www.linkedin.com/in/bernardsiegel/ |
+| 32 | Neil Riordan | Scientist and founder of the Stem Cell Institute in Panama and Riordan Medical Institute, specializing in mesenchymal stem cell (MSC) clinical therapies. | https://www.cellmedicine.com/meet-neil-riordan-founder-stem-cell-institute/ |
+| 33 | William A. Haseltine | Renowned biologist, founder of Human Genome Sciences, author, and pioneer who coined the term "regenerative medicine". | https://en.wikipedia.org/wiki/William_A._Haseltine |
+| 34 | Lisa Fabiny-Kiser | Managing Director and CEO at SENS Research Foundation, overseeing scientific research and education programs in damage-repair biotechnology. | https://www.linkedin.com/in/lisa-fabiny-kiser-11793633/ |
+| 35 | Bill Liao | General Partner at SOSV, co-founder of IndieBio and RebelBio accelerators, venture capitalist investing in life sciences and longevity technologies. | https://sosv.com/people/bill-liao/ |
+| 36 | Jim O'Neill | Former CEO of the Thiel Foundation, principal at Mithril Capital, and co-founder of the SENS Research Foundation supporting early anti-aging biotech. | https://en.wikipedia.org/wiki/Jim_O%27Neill_(investor) |
+| 37 | Maria Entraigues-Abramson | Science communicator, Director of Development at LEV Foundation, and veteran global outreach coordinator for SENS Research Foundation. | https://lifeboat.com/ex/bios.maria.entraigues.abramson |
+| 38 | Keith Comito | Founder and President of Lifespan.io (Lifespan Extension Advocacy Foundation), leading crowdfunding and media advocacy for longevity science. | https://www.linkedin.com/in/keith-comito-a6890447 |
+| 39 | Paul A. Spiegel | Transhumanist attorney, longevity policy advocate, board member of the International Longevity Alliance, and founder of Eclectic Associates. | https://healthspanpolicy.org/person/paul-a-spiegel/ |
+| 40 | Oliver Medvedik | Bioengineer, co-founder of Genspace community biology lab, Director of the Maurice Kanbar Center for Biomedical Engineering at Cooper Union, and Lifespan.io director. | https://www.linkedin.com/in/oliver-medvedik-4067016/ |
+| 41 | Elena Milova | Longevity activist, board member and lead campaigns coordinator at Lifespan.io, promoting geroscience research and healthy life extension. | https://www.linkedin.com/in/elena-milova-297b1787 |
+| 42 | José Luis Cordeiro | Engineer, futurist, transhumanist author of *The Death of Death*, and international keynote speaker advocating for biological immortality. | https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Cordeiro |
+| 43 | Aaron Cravens | Co-founder and CEO of Revel Pharmaceuticals, developing therapeutic enzymes to degrade advanced glycation end-products (AGEs) and repair molecular aging damage. | https://revelpharmaceuticals.com/ |
+| 44 | Nicholas A. DeLateur | Co-founder of Revel Pharmaceuticals, biochemist and synthetic biologist researching enzyme engineering to reverse age-related crosslinks and molecular damage. | https://revelpharmaceuticals.com/ |
