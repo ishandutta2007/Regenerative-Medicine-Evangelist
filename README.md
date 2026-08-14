@@ -8,7 +8,7 @@
 [![Pioneers](https://img.shields.io/badge/Pioneers%20%26%20Researchers-60%20Leaders-00F5A0?style=for-the-badge&logo=dna&logoColor=white)](./README.md)
 [![Topic](https://img.shields.io/badge/Focus-Regenerative%20Medicine%20%7C%20Longevity-00F2FE?style=for-the-badge)](./README.md)
 [![License](https://img.shields.io/badge/License-MIT-38BDF8?style=for-the-badge)](./LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-F472B6?style=for-the-badge)](./CONTRIBUTING.md)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-F472B6?style=for-the-badge)](./CONTRIBUTING.md)<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
   <b>A comprehensive, SEO-optimized directory of top scientists, biogerontologists, clinicians, biotech innovators, and longevity evangelists advancing regenerative medicine, cellular rejuvenation, stem cell therapy, epigenetic clocks, and healthy human healthspan extension.</b>
