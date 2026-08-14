@@ -105,6 +105,19 @@ This curated open-source index tracks the foremost thought leaders, researchers,
 
 ---
 
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FRegenerative-Medicine-Evangelist&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Regenerative-Medicine-Evangelist&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Regenerative-Medicine-Evangelist&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Regenerative-Medicine-Evangelist&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
+---
+
 ## 🤝 Contributing
 
 Contributions to this directory are warmly welcome! If you know of an influential researcher, clinician, founder, or evangelist in regenerative medicine and longevity whose work should be recognized here, please check [CONTRIBUTING.md](./CONTRIBUTING.md) and submit a pull request.
