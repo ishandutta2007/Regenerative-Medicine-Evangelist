@@ -5,7 +5,7 @@
 # 🧬 Regenerative Medicine & Longevity Evangelists ⏳
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![Pioneers](https://img.shields.io/badge/Pioneers%20%26%20Researchers-69%20Leaders-00F5A0?style=for-the-badge&logo=dna&logoColor=white)](./README.md)
+[![Pioneers](https://img.shields.io/badge/Pioneers%20%26%20Researchers-78%20Leaders-00F5A0?style=for-the-badge&logo=dna&logoColor=white)](./README.md)
 [![Topic](https://img.shields.io/badge/Focus-Regenerative%20Medicine%20%7C%20Longevity-00F2FE?style=for-the-badge)](./README.md)
 [![License](https://img.shields.io/badge/License-MIT-38BDF8?style=for-the-badge)](./LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-F472B6?style=for-the-badge)](./CONTRIBUTING.md)<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -111,6 +111,15 @@ This curated open-source index tracks the foremost thought leaders, researchers,
 | 67 | **Peter Fedichev** | 🇷🇺 Russia | ⚛️ Physicist, co-founder and CEO of Gero, researching physics-based frameworks of aging, dynamic organism state indicators (DOSI), and AI models for healthspan and resilience. | https://en.wikipedia.org/wiki/Peter_Fedichev |
 | 68 | **Vladimir Skulachev** | 🇷🇺 Russia | ⚡ Academician of the Russian Academy of Sciences and biochemist who pioneered the phenoptosis theory of programmed aging and developed mitochondria-targeted antioxidant therapies (SkQ1). | https://en.wikipedia.org/wiki/Vladimir_Skulachev |
 | 69 | **Mikhail Blagosklonny** | 🇷🇺 Russia / 🇺🇸 United States | 💊 Oncologist and biogerontologist who developed the Hyperfunction Theory of aging and championed rapamycin (mTOR inhibition) as a potent anti-aging gerosuppressant. | https://en.wikipedia.org/wiki/Mikhail_Blagosklonny |
+| 70 | **Suresh I. S. Rattan** | 🇮🇳 India / 🇩🇰 Denmark | 🧬 Biogerontologist, Professor Emeritus at Aarhus University, Founding Editor-in-Chief of *Biogerontology*, and pioneer of the hormesis theory of aging and hormetin-driven cellular maintenance. | https://en.wikipedia.org/wiki/Suresh_Rattan |
+| 71 | **Deepak Srivastava** | 🇮🇳 India / 🇺🇸 United States | ❤️ President of the Gladstone Institutes, Professor at UCSF, and pioneer in direct cellular reprogramming (GMT factors) of cardiac fibroblasts to functional cardiomyocytes for heart regeneration. | https://gladstone.org/people/deepak-srivastava |
+| 72 | **Jyotsna Dhawan** | 🇮🇳 India | 🧫 Emeritus Scientist at CSIR-CCMB and pioneer at inStem, renowned for seminal research on adult muscle stem cell quiescence, epigenetic memory, and skeletal muscle tissue regeneration. | https://en.wikipedia.org/wiki/Jyotsna_Dhawan |
+| 73 | **Haim Cohen** | 🇮🇱 Israel | ⏰ Director of the Sagol Healthy Human Longevity Center at Bar-Ilan University, leading researcher on SIRT6 sirtuin biology demonstrating enzymatic lifespan extension and metabolic rejuvenation. | https://haimcohenlab.com/ |
+| 74 | **Valery Krizhanovsky** | 🇮🇱 Israel | 🔬 Professor and Chair of Molecular Cell Biology at the Weizmann Institute of Science, world-renowned pioneer in cellular senescence mechanisms, immune surveillance, SASP, and senolytics. | https://www.weizmann.ac.il/mcb/krizhanovsky/ |
+| 75 | **Lior Gepstein** | 🇮🇱 Israel | 💓 Professor at Technion - Israel Institute of Technology and Director of Cardiology at Rambam, pioneer in human iPSC cardiac regeneration, engineered heart tissue, and biological pacemakers. | https://en.wikipedia.org/wiki/Lior_Gepstein |
+| 76 | **Mayana Zatz** | 🇧🇷 Brazil | 🧬 Professor of Genetics at the University of São Paulo (USP) and Director of the Human Genome and Stem Cell Research Center (HUG-CELL), pioneer in stem cell biology and neuromuscular degeneration therapies. | https://en.wikipedia.org/wiki/Mayana_Zatz |
+| 77 | **Claudio Hetz** | 🇨🇱 Chile | 🧠 Professor at the University of Chile and Director of the Biomedical Neuroscience Institute (BNI), world-leading pioneer in proteostasis, unfolded protein response (UPR), and cellular stress in aging. | https://en.wikipedia.org/wiki/Claudio_Hetz |
+| 78 | **Felipe Sierra** | 🇨🇱 Chile / 🇺🇸 United States | 🌍 Former Director of the Division of Aging Biology at NIA/NIH and former CSO of Hevolution Foundation, seminal architect who coined and established the modern Geroscience hypothesis. | https://en.wikipedia.org/wiki/Felipe_Sierra |
 
 ---
 
