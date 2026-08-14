@@ -1,0 +1,217 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="100%" height="auto" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050B14" />
+      <stop offset="50%" stop-color="#0A1628" />
+      <stop offset="100%" stop-color="#040D1A" />
+    </linearGradient>
+
+    <!-- Glowing Accent Gradients -->
+    <linearGradient id="cyanBlueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="100%" stop-color="#4FACFE" />
+    </linearGradient>
+
+    <linearGradient id="emeraldTealGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F5A0" />
+      <stop offset="100%" stop-color="#00D9F5" />
+    </linearGradient>
+
+    <linearGradient id="purplePinkGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7928CA" />
+      <stop offset="100%" stop-color="#FF0080" />
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="50%" stop-color="#E2F1FF" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+
+    <radialGradient id="glowPulse1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#00F2FE" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glowPulse2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00F5A0" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#00F5A0" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Filters for Glow -->
+    <filter id="glowFilter" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="subtleGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      .dna-strand {
+        stroke-dasharray: 8 6;
+        animation: flowDash 12s linear infinite;
+      }
+      .node-pulse-1 {
+        animation: pulse1 3s ease-in-out infinite alternate;
+      }
+      .node-pulse-2 {
+        animation: pulse2 4s ease-in-out infinite alternate;
+      }
+      .node-pulse-3 {
+        animation: pulse3 3.5s ease-in-out infinite alternate;
+      }
+      .orbit-spin {
+        transform-origin: 1040px 190px;
+        animation: spin 20s linear infinite;
+      }
+      .orbit-spin-rev {
+        transform-origin: 1040px 190px;
+        animation: spinRev 25s linear infinite;
+      }
+      .float-particle {
+        animation: floatParticle 6s ease-in-out infinite alternate;
+      }
+      .shimmer-bar {
+        animation: shimmer 4s ease-in-out infinite alternate;
+      }
+
+      @keyframes flowDash {
+        0% { stroke-dashoffset: 0; }
+        100% { stroke-dashoffset: 200; }
+      }
+      @keyframes pulse1 {
+        0% { r: 4px; opacity: 0.6; }
+        100% { r: 8px; opacity: 1; filter: drop-shadow(0 0 8px #00F2FE); }
+      }
+      @keyframes pulse2 {
+        0% { r: 5px; opacity: 0.5; }
+        100% { r: 9px; opacity: 1; filter: drop-shadow(0 0 10px #00F5A0); }
+      }
+      @keyframes pulse3 {
+        0% { r: 3px; opacity: 0.4; }
+        100% { r: 7px; opacity: 0.9; filter: drop-shadow(0 0 6px #38BDF8); }
+      }
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      @keyframes spinRev {
+        0% { transform: rotate(360deg); }
+        100% { transform: rotate(0deg); }
+      }
+      @keyframes floatParticle {
+        0% { transform: translateY(0px) translateX(0px); }
+        50% { transform: translateY(-12px) translateX(6px); }
+        100% { transform: translateY(8px) translateX(-4px); }
+      }
+      @keyframes shimmer {
+        0% { opacity: 0.4; transform: scaleX(0.95); }
+        100% { opacity: 0.9; transform: scaleX(1.05); }
+      }
+    </style>
+  </defs>
+
+  <!-- Card Background -->
+  <rect x="0" y="0" width="1200" height="380" rx="20" fill="url(#bgGrad)" stroke="#1E293B" stroke-width="2"/>
+
+  <!-- Ambient Glows -->
+  <circle cx="1040" cy="190" r="160" fill="url(#glowPulse1)" class="shimmer-bar" />
+  <circle cx="200" cy="100" r="180" fill="url(#glowPulse2)" class="shimmer-bar" />
+
+  <!-- Left Futuristic Molecule / DNA Graphic -->
+  <g opacity="0.3" stroke="#00F2FE" stroke-width="1.2" fill="none">
+    <path d="M -40 200 Q 60 120 160 200 T 360 200 T 560 200" class="dna-strand" />
+    <path d="M -40 200 Q 60 280 160 200 T 360 200 T 560 200" class="dna-strand" />
+    <line x1="60" y1="160" x2="60" y2="240" stroke="#00F5A0" stroke-opacity="0.5" />
+    <line x1="160" y1="195" x2="160" y2="205" stroke="#00F5A0" stroke-opacity="0.5" />
+    <line x1="260" y1="160" x2="260" y2="240" stroke="#00F5A0" stroke-opacity="0.5" />
+    <line x1="360" y1="195" x2="360" y2="205" stroke="#00F5A0" stroke-opacity="0.5" />
+    <line x1="460" y1="160" x2="460" y2="240" stroke="#00F5A0" stroke-opacity="0.5" />
+  </g>
+
+  <!-- Right Rejuvenation Core (Dynamic Rotating Rings & Nodes) -->
+  <g id="rejuvenationCore">
+    <!-- Outer Orbit -->
+    <g class="orbit-spin">
+      <circle cx="1040" cy="190" r="110" fill="none" stroke="url(#cyanBlueGrad)" stroke-width="1.5" stroke-dasharray="12 18" opacity="0.6"/>
+      <circle cx="1040" cy="80" r="6" fill="#00F2FE" filter="url(#subtleGlow)"/>
+      <circle cx="1040" cy="300" r="4" fill="#00F5A0" filter="url(#subtleGlow)"/>
+      <circle cx="930" cy="190" r="5" fill="#38BDF8"/>
+    </g>
+
+    <!-- Reverse Mid Orbit -->
+    <g class="orbit-spin-rev">
+      <ellipse cx="1040" cy="190" rx="80" ry="75" fill="none" stroke="url(#emeraldTealGrad)" stroke-width="2" stroke-dasharray="8 12" opacity="0.8"/>
+      <circle cx="1115" cy="165" r="6.5" fill="#00F5A0" filter="url(#glowFilter)"/>
+      <circle cx="965" cy="215" r="5" fill="#00F2FE"/>
+    </g>
+
+    <!-- Inner Core Cell -->
+    <circle cx="1040" cy="190" r="46" fill="url(#bgGrad)" stroke="url(#cyanBlueGrad)" stroke-width="2.5" filter="url(#subtleGlow)"/>
+    <circle cx="1040" cy="190" r="24" fill="url(#emeraldTealGrad)" opacity="0.85" filter="url(#glowFilter)"/>
+    <circle cx="1040" cy="190" r="10" fill="#FFFFFF" class="node-pulse-1"/>
+  </g>
+
+  <!-- Dynamic Floating Bio Particles -->
+  <g class="float-particle">
+    <circle cx="140" cy="80" r="5" fill="#00F5A0" class="node-pulse-1" />
+    <circle cx="580" cy="70" r="4" fill="#00F2FE" class="node-pulse-2" />
+    <circle cx="780" cy="310" r="5" fill="#38BDF8" class="node-pulse-3" />
+    <circle cx="900" cy="90" r="6" fill="#00F5A0" class="node-pulse-1" />
+    <circle cx="280" cy="320" r="4.5" fill="#00D9F5" class="node-pulse-2" />
+  </g>
+
+  <!-- Decorative Badge Pill -->
+  <g transform="translate(80, 52)">
+    <rect x="0" y="0" width="310" height="32" rx="16" fill="#0E2238" stroke="#0284C7" stroke-width="1.2" opacity="0.9"/>
+    <circle cx="18" cy="16" r="5" fill="#00F5A0" class="node-pulse-1"/>
+    <text x="32" y="21" fill="#38BDF8" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="1.5">
+      GEROSCIENCE &amp; LONGEVITY
+    </text>
+  </g>
+
+  <!-- Main Headline Title -->
+  <text x="80" y="142" fill="url(#textGrad)" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="42" font-weight="900" letter-spacing="0.5">
+    Regenerative Medicine
+  </text>
+  <text x="80" y="196" fill="#FFFFFF" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="42" font-weight="900" letter-spacing="0.5">
+    Evangelists &amp; Researchers 🧬
+  </text>
+
+  <!-- Subtitle / Mission Statement -->
+  <text x="80" y="244" fill="#94A3B8" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="400" letter-spacing="0.2">
+    Curated directory of pioneers, biogerontologists, clinicians, and innovators
+  </text>
+  <text x="80" y="272" fill="#38BDF8" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="500" letter-spacing="0.2">
+    extending human healthspan, cellular rejuvenation, and tissue engineering.
+  </text>
+
+  <!-- Feature Tags / Pills -->
+  <g transform="translate(80, 310)">
+    <!-- Tag 1 -->
+    <rect x="0" y="0" width="168" height="28" rx="6" fill="#0B1C2E" stroke="#1E3A5F" stroke-width="1"/>
+    <text x="14" y="19" fill="#00F5A0" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">⚡ Cellular Rejuvenation</text>
+
+    <!-- Tag 2 -->
+    <rect x="180" y="0" width="158" height="28" rx="6" fill="#0B1C2E" stroke="#1E3A5F" stroke-width="1"/>
+    <text x="194" y="19" fill="#00F2FE" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">🔬 Epigenetic Clocks</text>
+
+    <!-- Tag 3 -->
+    <rect x="350" y="0" width="145" height="28" rx="6" fill="#0B1C2E" stroke="#1E3A5F" stroke-width="1"/>
+    <text x="364" y="19" fill="#38BDF8" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">🧫 Stem Cell Biology</text>
+
+    <!-- Tag 4 -->
+    <rect x="507" y="0" width="125" height="28" rx="6" fill="#0B1C2E" stroke="#1E3A5F" stroke-width="1"/>
+    <text x="521" y="19" fill="#F472B6" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">💊 Senolytics</text>
+  </g>
+</svg>
