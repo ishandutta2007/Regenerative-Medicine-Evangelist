@@ -11,7 +11,7 @@
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-F472B6?style=for-the-badge)](./CONTRIBUTING.md)<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
-  <b>A comprehensive, SEO-optimized directory of top scientists, biogerontologists, clinicians, biotech innovators, and longevity evangelists advancing regenerative medicine, cellular rejuvenation, stem cell therapy, epigenetic clocks, and healthy human healthspan extension.</b>
+  <b>A comprehensive directory of top scientists, biogerontologists, clinicians, biotech innovators, and longevity evangelists advancing regenerative medicine, cellular rejuvenation, stem cell therapy, epigenetic clocks, and healthy human healthspan extension.</b>
 </p>
 
 ---
