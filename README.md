@@ -4,18 +4,39 @@
 
 # 🧬 Regenerative Medicine & Longevity Evangelists ⏳
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Pioneers](https://img.shields.io/badge/Pioneers%20%26%20Researchers-60%20Leaders-00F5A0?style=for-the-badge&logo=dna&logoColor=white)](./README.md)
 [![Topic](https://img.shields.io/badge/Focus-Regenerative%20Medicine%20%7C%20Longevity-00F2FE?style=for-the-badge)](./README.md)
 [![License](https://img.shields.io/badge/License-MIT-38BDF8?style=for-the-badge)](./LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-F472B6?style=for-the-badge)](./CONTRIBUTING.md)
 
 <p align="center">
-  <b>A curated compendium of pioneering scientists, biogerontologists, clinicians, entrepreneurs, and advocates championing cellular rejuvenation, stem cell biotechnology, epigenetic reprogramming, and healthy human healthspan extension.</b>
+  <b>A comprehensive, SEO-optimized directory of top scientists, biogerontologists, clinicians, biotech innovators, and longevity evangelists advancing regenerative medicine, cellular rejuvenation, stem cell therapy, epigenetic clocks, and healthy human healthspan extension.</b>
 </p>
 
 ---
 
 </div>
+
+## 📌 Table of Contents
+- [📖 Overview & Key Research Domains](#-overview--key-research-domains)
+- [🌟 Directory of Evangelists & Researchers](#-directory-of-evangelists--researchers)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+
+---
+
+## 📖 Overview & Key Research Domains
+
+This curated open-source index tracks the foremost thought leaders, researchers, and pioneers in **longevity biotechnology** and **regenerative medicine**, spanning core domains:
+
+- 🔬 **Cellular Reprogramming & Rejuvenation**: iPSCs, Yamanaka factors, transient reprogramming (ERA).
+- 🧫 **Stem Cell Therapeutics & Tissue Engineering**: Mesenchymal stem cells (MSCs), organ 3D bioprinting, regenerative implants.
+- ⏰ **Biomarkers & Epigenetic Clocks**: Horvath clocks, PhenoAge, GrimAge, multi-omics biological age tracking.
+- 💊 **Senolytics & Cellular Senescence**: SASP modulation, selective clearance of senescent cells (dasatinib, quercetin, fisetin).
+- 🧬 **Geroscience, Genetics & Telomeres**: Telomerase activation, SIRT6, DNA damage repair, mTOR inhibition (rapamycin), autophagy mimetics.
+
+---
 
 ## 🌟 Directory of Evangelists & Researchers
 
