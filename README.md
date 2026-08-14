@@ -5,7 +5,7 @@
 # 🧬 Regenerative Medicine & Longevity Evangelists ⏳
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![Pioneers](https://img.shields.io/badge/Pioneers%20%26%20Researchers-64%20Leaders-00F5A0?style=for-the-badge&logo=dna&logoColor=white)](./README.md)
+[![Pioneers](https://img.shields.io/badge/Pioneers%20%26%20Researchers-69%20Leaders-00F5A0?style=for-the-badge&logo=dna&logoColor=white)](./README.md)
 [![Topic](https://img.shields.io/badge/Focus-Regenerative%20Medicine%20%7C%20Longevity-00F2FE?style=for-the-badge)](./README.md)
 [![License](https://img.shields.io/badge/License-MIT-38BDF8?style=for-the-badge)](./LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-F472B6?style=for-the-badge)](./CONTRIBUTING.md)<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -106,6 +106,11 @@ This curated open-source index tracks the foremost thought leaders, researchers,
 | 62 | **Hongkui Deng** | 🇨🇳 China | 🧫 Boya Chair Professor at Peking University and Director of the Institute of Stem Cell Research, pioneer of chemical reprogramming (CiPSCs) without genetic vectors for regenerative and islet cell therapeutics. | https://en.wikipedia.org/wiki/Deng_Hongkui |
 | 63 | **Qi Zhou** | 🇨🇳 China | 🏛️ Academician and Vice President of the Chinese Academy of Sciences (CAS), President of the Beijing Institute of Stem Cell and Regenerative Medicine, and pioneer in mammalian somatic cell cloning and stem cell therapeutics. | https://en.wikipedia.org/wiki/Zhou_Qi_(biologist) |
 | 64 | **Baohua Liu** | 🇨🇳 China | 🧪 Professor and Director at Shenzhen University Health Science Center, prominent researcher in SIRT6 sirtuin biology, nuclear lamina degradation, DNA damage repair, and stem cell aging mechanisms. | https://med.szu.edu.cn/en/Faculty/Full_Time_Faculty/Detail/baohua-liu.htm |
+| 65 | **Alexey Moskalev** | 🇷🇺 Russia | 🧬 Doctor of Biological Sciences, Corresponding Member of the Russian Academy of Sciences (RAS), and renowned biogerontologist researching the genetics of aging, stress resistance, longevity biomarkers, and geroprotectors. | https://orcid.org/0000-0002-3248-1633 |
+| 66 | **Alex Zhavoronkov** | 🇷🇺 Russia / 🇺🇸 United States | 🤖 Founder and CEO of Insilico Medicine, pioneer in generative AI for longevity drug discovery, biological aging clocks (Young.AI), and deep aging biomarkers. | https://en.wikipedia.org/wiki/Alex_Zhavoronkov |
+| 67 | **Peter Fedichev** | 🇷🇺 Russia | ⚛️ Physicist, co-founder and CEO of Gero, researching physics-based frameworks of aging, dynamic organism state indicators (DOSI), and AI models for healthspan and resilience. | https://en.wikipedia.org/wiki/Peter_Fedichev |
+| 68 | **Vladimir Skulachev** | 🇷🇺 Russia | ⚡ Academician of the Russian Academy of Sciences and biochemist who pioneered the phenoptosis theory of programmed aging and developed mitochondria-targeted antioxidant therapies (SkQ1). | https://en.wikipedia.org/wiki/Vladimir_Skulachev |
+| 69 | **Mikhail Blagosklonny** | 🇷🇺 Russia / 🇺🇸 United States | 💊 Oncologist and biogerontologist who developed the Hyperfunction Theory of aging and championed rapamycin (mTOR inhibition) as a potent anti-aging gerosuppressant. | https://en.wikipedia.org/wiki/Mikhail_Blagosklonny |
 
 ---
 
