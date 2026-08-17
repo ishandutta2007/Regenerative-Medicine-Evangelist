@@ -120,6 +120,8 @@ This curated open-source index tracks the foremost thought leaders, researchers,
 | 76 | **Mayana Zatz** | 🇧🇷 Brazil | 🧬 Professor of Genetics at the University of São Paulo (USP) and Director of the Human Genome and Stem Cell Research Center (HUG-CELL), pioneer in stem cell biology and neuromuscular degeneration therapies. | https://en.wikipedia.org/wiki/Mayana_Zatz |
 | 77 | **Claudio Hetz** | 🇨🇱 Chile | 🧠 Professor at the University of Chile and Director of the Biomedical Neuroscience Institute (BNI), world-leading pioneer in proteostasis, unfolded protein response (UPR), and cellular stress in aging. | https://en.wikipedia.org/wiki/Claudio_Hetz |
 | 78 | **Felipe Sierra** | 🇨🇱 Chile / 🇺🇸 United States | 🌍 Former Director of the Division of Aging Biology at NIA/NIH and former CSO of Hevolution Foundation, seminal architect who coined and established the modern Geroscience hypothesis. | https://en.wikipedia.org/wiki/Felipe_Sierra |
+| 79 | **Andrew Steele** | 🇬🇧 United Kingdom | 🌍 Author of Book Ageless,  Co-Founder of The Longevity Initiative | [https://en.wikipedia.org/wiki/Felipe_Sierra](https://andrewsteele.co.uk |
+
 
 ---
 
